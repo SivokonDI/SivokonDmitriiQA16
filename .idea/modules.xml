@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-web-selenium-project.iml" filepath="$PROJECT_DIR$/.idea/modules/first-web-selenium-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-web-selenium-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-web-selenium-project_main.iml" group="first-web-selenium-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-web-selenium-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first-web-selenium-project_test.iml" group="first-web-selenium-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder_main.iml" group="second-web-selenium-byRecorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/second-web-selenium-byRecorder_test.iml" group="second-web-selenium-byRecorder" />
+    </modules>
+  </component>
+</project>
